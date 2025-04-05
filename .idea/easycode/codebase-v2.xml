@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/config/data_merged.yaml;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/config/data_person.yaml;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/config/data_vehicle.yaml;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/model_weights/person_model/args.yaml;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/model_weights/vehicle_model/args.yaml;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/copy_to_unlabeled.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/logger.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/merge_labels.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/organize_person_data.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/organize_unlabeled.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/utils/organize_vehicle_data.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/README.md;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/train.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/train_merged_model.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/train_person_model.py;D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/train_vehicle_model.py" />
+  </component>
+</project>

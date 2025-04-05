@@ -1,0 +1,11 @@
+# config/data_merged.yaml
+
+path: D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/data/dataset_merged
+train: images
+val: images
+
+names:
+  0: person
+  1: car
+  2: truck
+  3: bus

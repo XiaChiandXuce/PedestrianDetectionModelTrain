@@ -1,0 +1,10 @@
+# config/data_vehicle.yaml
+
+path: D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/data/dataset_vehicle
+train: images
+val: images
+
+names:
+  0: car
+  1: truck
+  2: bus

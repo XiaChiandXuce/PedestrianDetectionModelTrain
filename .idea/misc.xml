@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Python 3.9 (yolov8_pedestrian_train)" />
+    <option name="sdkName" value="pythonProject10" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (yolov8_pedestrian_train)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="D:\envs\yolo_train_env" project-jdk-type="Python SDK" />
 </project>

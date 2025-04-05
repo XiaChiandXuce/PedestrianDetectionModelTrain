@@ -1,0 +1,8 @@
+# config/data_person.yaml
+
+path: D:/备份资料/develop/Pythoncode/yolov8_pedestrian_train/data/dataset_person
+train: images
+val: images
+
+names:
+  0: person
