@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="546b5744-c7a2-4ff0-a67a-023a64d34240" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/data_merged.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/data_person.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/data_vehicle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_weights/person_model.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_merged_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_person_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_vehicle_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/copy_to_unlabeled.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/merge_labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/organize_person_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/organize_unlabeled.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/organize_vehicle_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yolov8_pedestrian_train.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yolov8_pedestrian_train.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/clean_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,6 +349,13 @@
       <workItem from="1743842010062" duration="38000" />
       <workItem from="1743842594772" duration="93000" />
       <workItem from="1743842863051" duration="7000" />
+      <workItem from="1743842988763" duration="823000" />
+      <workItem from="1743858484548" duration="4000" />
+      <workItem from="1743923334666" duration="330000" />
+      <workItem from="1743925829590" duration="312000" />
+      <workItem from="1743926147657" duration="1156000" />
+      <workItem from="1743928142455" duration="549000" />
+      <workItem from="1743928973551" duration="133000" />
     </task>
     <servers />
   </component>
